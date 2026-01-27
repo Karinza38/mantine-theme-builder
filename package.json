@@ -36,7 +36,7 @@
     "@tanstack/react-table": "^8.20.5",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.13",
-    "next": "^15.1.0",
+    "next": "^16.1.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "recharts": "^2.15.0",
